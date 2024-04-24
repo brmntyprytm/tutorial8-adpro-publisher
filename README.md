@@ -13,3 +13,11 @@
   ![img1](assets/iamges/Subscriber.png)
 - Publisher
   ![img2](assets/iamges/Publisher.png)
+- Docker
+  ![img3](assets/iamges/Docker.png)
+
+### Monitoring Chart Based on Publisher
+
+![img3](assets/iamges/RabbitMQ.png)
+
+We see from the chart that the publisher program sends five messages to the message broker in one run.
